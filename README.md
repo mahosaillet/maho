@@ -1,3 +1,3 @@
-# maho
+# Project
 
 Computional thinkibng
