@@ -1,3 +1,6 @@
 # Project
 
-Computional thinkibng
+# Context:
+
+
+
