@@ -17,11 +17,15 @@ This program can be very useful, because sometimes scientists have to transcribe
 # Algorithm
 
 Inputs:
-DNA sequence
-RNA dictionary
-Amino acid dictionary
+-DNA sequence
+-RNA dictionary
+-Amino acid dictionary
 
 Process:
 -ask for DNA sequence
 -transcribe into RNA # using RNA dictionary
 -Translate into protein sequence # using amino acid dictionary
+
+Outputs:
+-RNA sequence
+-Protéine sequence
