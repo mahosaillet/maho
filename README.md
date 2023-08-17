@@ -12,3 +12,16 @@ Thanks to this sequence, there will be two outputs.
 The first is the RNA sequence and the second is the protein sequence.
 
 This program can be very useful, because sometimes scientists have to transcribe and translate by hand.
+
+
+# Algorithm
+
+Inputs:
+-DNA sequence
+-RNA dictionary
+-Amino acid dictionary
+
+Process:
+-ask for DNA sequence
+-transcribe into RNA # using RNA dictionary
+-Translate into protein sequence # using amino acid dictionary
