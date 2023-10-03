@@ -18,14 +18,13 @@ This program can be very useful, because sometimes scientists have to transcribe
 
 Inputs:
 -DNA sequence
--RNA dictionary
--Amino acid dictionary
 
 Process:
 -ask for DNA sequence
--transcribe into RNA # using RNA dictionary
--Translate into protein sequence # using amino acid dictionary
+-transcribe into RNA # using RNA fonction
+-Function to find the initiation codon and return the mRNA sequence from that codon
+-Function to translate mRNA into protein using amino acid list/matrix
 
 Outputs:
--RNA sequence
+-mRNA sequence
 -Protéine sequence
